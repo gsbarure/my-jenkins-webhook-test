@@ -48,3 +48,5 @@ pipeline {
     post {
         success {
             echo "🎉 Build Completed Successfully!"
+        }
+        
