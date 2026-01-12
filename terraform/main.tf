@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "demo" {
-  bucket = "gajanan-jenkins2-demo-bucket"
+  bucket = "gajanan-jenkins3-demo-bucket"
 }
